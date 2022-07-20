@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, hk debug
+# This file is distributed under the same license as the hk debug proj
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hk debug proj \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-20 19:08+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../index.rst:9
+msgid "load"
+msgstr "加载"
+
+#: ../../index.rst:9 fd9f74e1635e42e9a5086d3490ec4274
+msgid "API Reference"
+msgstr "API 参考"
+
+#: ../../index.rst:2 afa8ddb08e6e43c29b842c9ca8eac368
+msgid "Welcome to hk documentation!"
+msgstr "欢迎使用 hk 文档"
+
+#: ../../index.rst:4 a6dd689af0604f1292fa9fe24203f3a3
+msgid "huoke add. huoke added from dev f1 1st. huoke added from dev f1 2nd."
+msgstr "由 hk 添加。"
+

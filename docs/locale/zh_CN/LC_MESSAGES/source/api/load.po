@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, hk debug
+# This file is distributed under the same license as the hk debug proj
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hk debug proj \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-20 19:08+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../source/api/load.rst:2 55aff251744c41f58c1056eedcb3ea38
+msgid "src.load"
+msgstr ""
+
+#: a5a3c02a5b9c494ca8d1e89f56b50895 of src.load.Loader:1
+msgid "Bases: :py:class:`object`"
+msgstr ""
+
+#: 80351da2b60b447fb9b42580edfd46cd of src.load.Loader:1
+msgid "The Loader instance. Very good."
+msgstr "加载器，很好用。"
+
+#: 4757441599ef442abd62806f95f465c0 of src.load.Loader.load:1
+msgid "The load method."
+msgstr "加载方法。"
+
+#: 78757d82c8804a9bb0e7e740d86d3d0f of src.load.Loader.load
+msgid "Parameters"
+msgstr ""
+
+#: 75eb3f4a195d4f1d97f7b100bc8f6164 of src.load.Loader.load:3
+msgid "path to laod file."
+msgstr "加载文件的路径。"
+
+#: a73add9d85ae40199e0c1fa2ed743efc of src.load.Loader.load
+msgid "Returns"
+msgstr ""
+
+#: d35fd42d131847869b317ed9bc0dfa4b of src.load.Loader.load:6
+msgid "loaded data."
+msgstr "加载完成的数据，"
+
+#: f454e41baefe4623998459501ac7e57d of src.load.Loader.load
+msgid "Return type"
+msgstr ""
+
