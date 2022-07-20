@@ -3,6 +3,9 @@
 
 
 class Loader(object):
+    """
+    The Loader instance. Very good.
+    """
     def __init__(self):
         pass
 
